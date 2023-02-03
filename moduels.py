@@ -1,7 +1,7 @@
 # modules
 
 # a piece of software that imports some sort of functionality
-# a module is you referring to a file
+# libraries and modules is as I do not think I explained it too well in the lesson: A module is a collection of code or functions that uses the .py extension - allowing you to use that code/functions in your program A library is a set of RELATED modules or packages bundled together. Modules -> smaller, just code you can useLibraries -> larger/more complex compilations of resources.
 import os
 import math,datetime, sys
 
